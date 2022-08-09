@@ -1,19 +1,19 @@
-### Hi there 👋                                          
+ML/DL 특히 자연어 분야에 관심을 갖고 있습니다
 
-<!--
-**Jinhoss/Jinhoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+틈틈히 AI Competition에 (dacon, kaggle ...) 참가합니다.                                    
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## AI Competitions
+
+| Name                                                         | Type | Date     | Rank         |
+| ------------------------------------------------------------ | ---- | -------- | ------------ |
+| [CLOVA AI RUSH 2022](https://github.com/Jinhoss/Apollo_dev)  | NLP  | Jul.2022 | 19th         |
+| [Dacon 한국어 문장 관계 분류](https://github.com/Jinhoss/Dacon_KNLI) | NLP  | Jan.2022 | 17th/468     |
+| CLOVA AI RUSH 2021 Round2                                    | NLP  | May.2021 | 2nd /13, win |
+| CLOVA AI RUSH 2021 Round2                                    | NLP  | Apr.2021 | 10th/22      |
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinhoss&show_icons=true&theme=tokyonight)](https://github.com/Jinhoss/github-readme-stats)
+
+
 

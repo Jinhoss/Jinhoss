@@ -1,6 +1,4 @@
-ML/DL 특히 자연어 분야에 관심을 갖고 있습니다
-
-틈틈히 AI Competition에 (dacon, kaggle ...) 참가합니다.                                    
+취미로 틈틈히 AI Competition에 (dacon, kaggle ...) 참가합니다.                                    
 
 
 
